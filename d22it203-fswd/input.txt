@@ -1,0 +1,6 @@
+name : Raj Gadhavi, cgpa : 8.28
+name : Meet Desai, cgpa : 8.90
+name : Jay Banugariya, cgpa : 7.98
+name :Adesh Mithaliya , cgpa : 7.4
+
+
